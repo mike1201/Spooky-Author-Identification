@@ -1,6 +1,6 @@
-H1 = "Objective : Predict the author of excerpts by Edgar Allan Poe, Mary Shelley, and HP Lovecraft."
+# "Objective : Predict the author of excerpts by Edgar Allan Poe, Mary Shelley, and HP Lovecraft."
 
-Used Model : “CNN, LSTM, FASTTEXT, XG-Boost”
+## Used Model : “CNN, LSTM, FASTTEXT, XG-Boost”
 
 1. CNN, LSTM, XG-Boost : Bad Result
 
