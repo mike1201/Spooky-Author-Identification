@@ -33,6 +33,6 @@
 > We also tried to add a feature to the sentence. Specifically, we get word frequency from each authors corpus. and add the sum of them as variables.
 > ex) size : 1, Embedding_size --) 1, Embedding_size + 3
 
-2-3. Fully Connected layer.
+### 2-3. Fully Connected layer.
 
 
