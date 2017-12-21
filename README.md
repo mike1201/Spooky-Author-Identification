@@ -2,7 +2,7 @@
 
 ## Used Model : “CNN, LSTM, FASTTEXT, XG-Boost”
 
-1. CNN, LSTM, XG-Boost : Bad Result
+> 1. CNN, LSTM, XG-Boost : Bad Result
 
 2. FASTTEXT
 
