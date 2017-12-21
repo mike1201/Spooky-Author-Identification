@@ -2,12 +2,13 @@
 
 ## Used Model : “CNN, LSTM, FASTTEXT, XG-Boost”
 
-> 1. CNN, LSTM, XG-Boost : Bad Result
+1. CNN, LSTM, XG-Boost : Bad Result
 
 2. FASTTEXT
 
-2-1. Preprocessing.
-Given the characteristic of the data, instead of using the characteristic of a word, we should seek to capture the unique expressions used by writers. Through a lot of analysis, we asked for the best way to deal with the data.
+> 2-1. Preprocessing.
+> Given the characteristic of the data, instead of using the characteristic of a word, we should seek to capture the unique expressions
+> used by writers. Through a lot of analysis, we asked for the best way to deal with the data.
 
 2-1-1. Preserve punctuation marks such as ‘ . ’, ‘ ; ’.
 In general, the punctuation mark is noramalized and removed. But Removing a punctuation mark makes it difficult to catch the writer`s unique expression. So preprocessing was carried out by preserving the punctuation mark.
