@@ -1,4 +1,4 @@
-# "Objective : Predict the author of excerpts by Edgar Allan Poe, Mary Shelley, and HP Lovecraft."
+# Classify excerpts by three authors."
 
 ## Used Model : “CNN, LSTM, FASTTEXT, XG-Boost”
 
