@@ -4,6 +4,7 @@
 
 ### 1. CNN, LSTM, XG-Boost : Bad Result  
 
+  
 ### 2. FASTTEXT
 
 ### 2-1. Preprocessing.
