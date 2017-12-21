@@ -1,6 +1,6 @@
-#  Predict the excerpts by three authors.
+#  Predict the excerpts by three authors. <br />
 
-## Used Model : “CNN, LSTM, FASTTEXT, XG-Boost”
+## Used Model : “CNN, LSTM, FASTTEXT, XG-Boost” <br />
 
 ### 1. CNN, LSTM, XG-Boost : Bad Result
 
