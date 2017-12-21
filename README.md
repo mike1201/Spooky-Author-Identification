@@ -9,9 +9,9 @@
 ### 2-1. Preprocessing.
 > Given the characteristic of the data, instead of using the characteristic of a word, we should seek to capture the unique expressions used by writers. Through a lot of analysis, we asked for the best way to deal with the data.  
 
-### 2-1-1. To preserve punctuation marks, separate punctuation from words.
-> In general, the punctuation mark is noramalized and removed. But Removing a punctuation mark makes it difficult to catch the writers unique expression. So preprocessing was carried out by preserving the punctuation mark. So separate them from words.  
-> e.g. I love you. -> I love you .  
+#### 2-1-1. To preserve punctuation marks, separate punctuation from words.
+>> In general, the punctuation mark is noramalized and removed. But Removing a punctuation mark makes it difficult to catch the writers unique expression. So preprocessing was carried out by preserving the punctuation mark. So separate them from words.  
+>> e.g. I love you. -> I love you .  
 
 ### 2-1-2. Cutting long sentence.
 > Too long documents are cut.  
