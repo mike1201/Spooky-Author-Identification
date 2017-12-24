@@ -1,4 +1,5 @@
 #  Text classificaion with 3 classes : Predict the author.
+## https://www.kaggle.com/c/spooky-author-identification
 ## Used Model : “CNN, LSTM, FASTTEXT, XG-Boost”
 ### CNN, LSTM, XG-Boost : Bad Result   
 ### USE FASTTEXT : Good Result  
