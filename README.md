@@ -1,4 +1,4 @@
-#  Text classificaion with 3 classes : Predict the author given the text.
+#  Text classificaion with 3 classes : Predict the author.
 ## Used Model : “CNN, LSTM, FASTTEXT, XG-Boost”
 ### CNN, LSTM, XG-Boost : Bad Result   
 ### USE FASTTEXT : Good Result  
@@ -45,7 +45,3 @@ ex)  size : sen_length, Embedding_size  --)  1, Embedding_size
 #### 2-3-1. Features of the sentences.
 > We also tried to add a feature to sentences. Specifically, we got word frequency from each author's corpus and added the sum of them as variables.
 > ex) size : 1, Embedding_size --) 1, Embedding_size + 3
-
-
-
-### 3. Fully Connected layer.
